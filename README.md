@@ -1,2 +1,1 @@
-Hello! I am Lightbulb I am a game Developer.
-I am a advanced Scripter in Lua and currently learning Python.
+Hello! I am lightbullb I am a lua and python programmer
