@@ -1,1 +1,1 @@
-Hello! I am lightbullb I am a lua and python programmer
+lua and python programmer
